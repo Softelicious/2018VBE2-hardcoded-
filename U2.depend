@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1547835524 source:c:\users\domin\desktop\u2\main.cpp
+	<iostream>
+	<set>
+	<algorithm>
+	<fstream>
+	<iterator>
+	<map>
+	<string.h>
+	<limits>
+
